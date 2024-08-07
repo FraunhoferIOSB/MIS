@@ -11,7 +11,7 @@ More information about the MaaS use case :blue_book: [here](https://eclipse-trac
 
 Classification of MIS in an exemplary MaaS ecosystem under consideration of relevant stakeholders.
 
-![MIS overview](/assets/images/MIS_Overview.PNG)
+<img width="617" alt="MIS_Overview" src="https://github.com/user-attachments/assets/9e5b5207-2e69-4e61-910e-a4000c44f3ee">
 
 The following use cases can be performed with the MIS.
 
@@ -30,7 +30,7 @@ The following use cases can be performed with the MIS.
 
 MIS architecture with the functional components.
 
-![MIS architecture](/assets/images/MIS_Architecture.PNG) 
+<img width="459" alt="MIS_Architecture" src="https://github.com/user-attachments/assets/074dd088-9065-4e1c-a323-a1dbdc47e25c">
 
 | Components    | Goals         | URL           |
 | ------------- | ------------- | ------------- |
