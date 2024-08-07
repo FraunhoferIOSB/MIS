@@ -2,7 +2,7 @@
 
 The **M**anufacturer **I**nformation **S**ervice **(MIS)** is a modular digital service that provides key modules for the **Manufacturing as a Service (MaaS)** use case.
 
-More information about the MaaS use case :blue_book: [here](https://eclipse-tractusx.github.io/docs-kits/kits/Manufacturing%20as%20a%20Service%20Kit/Adoption%20View%20MaaS%20KIT#usecase--domain-explanation)
+More information about the MaaS use case :blue_book: [MaaS KIT](https://eclipse-tractusx.github.io/docs-kits/kits/Manufacturing%20as%20a%20Service%20Kit/Adoption%20View%20MaaS%20KIT#usecase--domain-explanation) and [here](https://disc-ecosystem.com/maas-usecase/)
 
 | MIS is still under development. Contributions in form of requirements, issues and pull requests are highly welcome. |
 |-----------------------------|
