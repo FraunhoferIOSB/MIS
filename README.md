@@ -11,7 +11,7 @@ More information about the MaaS use case :blue_book: [MaaS KIT](https://eclipse-
 
 Classification of MIS in an exemplary data space under consideration of relevant stakeholders.
 
-<img width="837" alt="MIS_Overview" src="https://github.com/user-attachments/assets/7e19793e-bda4-406e-9ccc-79103e76e08f">
+![MIS_Overview](/../main/docs/src/images/MIS_Overview.PNG)
 
 The following use cases can be performed with the MIS.
 
@@ -30,7 +30,7 @@ The following use cases can be performed with the MIS.
 
 MIS architecture with the functional components.
 
-<img width="459" alt="MIS_Architecture" src="https://github.com/user-attachments/assets/074dd088-9065-4e1c-a323-a1dbdc47e25c">
+![MIS_Architecture](/../main/docs/src/images/MIS_Architecture.PNG)
 
 | Components    | Goals         | URL           |
 | ------------- | ------------- | ------------- |
