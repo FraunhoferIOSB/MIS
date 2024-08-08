@@ -9,9 +9,9 @@ More information about the MaaS use case :blue_book: [MaaS KIT](https://eclipse-
 
 ## MIS Overview
 
-Classification of MIS in an exemplary MaaS ecosystem under consideration of relevant stakeholders.
+Classification of MIS in an exemplary data space under consideration of relevant stakeholders.
 
-<img width="617" alt="MIS_Overview" src="https://github.com/user-attachments/assets/9e5b5207-2e69-4e61-910e-a4000c44f3ee">
+<img width="837" alt="MIS_Overview" src="https://github.com/user-attachments/assets/7e19793e-bda4-406e-9ccc-79103e76e08f">
 
 The following use cases can be performed with the MIS.
 
