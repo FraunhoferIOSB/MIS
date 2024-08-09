@@ -9,28 +9,33 @@ More information about the MaaS use case :blue_book: [MaaS KIT](https://eclipse-
 
 ## MIS Overview
 
-Classification of MIS in an exemplary data space under consideration of relevant stakeholders.
+The purpose of the MIS is to collect available offerings from a set of manufacturers, and to make them discoverable to potential buyers. In that context, the manufacturers are playing the role of a **Data Provider** and their offerings are provided by a _Factory Connector_. The buyers are considered to be a **Data Consumer** of the service provided by the MIS is its role as a **Service Provider**.
 
-![MIS_Overview](/../main/docs/src/images/MIS_Overview.PNG)
+The MIS service provider will be deployed in an domain-specific data space, providing a relevant ecosystem for manufacturer and buyers.
+
+![MIS_Overview](docs/src/images/MIS_Overview.PNG)
+
+
+## Use Cases of MIS
 
 The following use cases can be performed with the MIS.
 
-### Use Cases of MIS
 1. **Manual onboarding**
-- Onboarding of manufacturer information via factory connectors.
-- AI-based onboarding of manufacturer information, based on machine specifications.
+   - Onboarding of manufacturer information via factory connectors.
+   - AI-based onboarding of manufacturer information, based on machine specifications.
 2. **Automatic onboarding / crawling**
-- The manufacturers' production capabilities are automatically read out by querying the factory connectors.
+   - The manufacturers' production capabilities are automatically read out by querying the factory connectors.
 3. **Requesting manufacturer information**
-- Data consumer can use the MIS to query information such as production capabilities for a data provider.
+   - Data consumer can use the MIS to query information such as production capabilities for a data provider.
 4. **Search for potential suppliers/supply chains**
-- Identification of potential suppliers/supply chains for a given production process.
+   - Identification of potential suppliers/supply chains for a given production process.
 
-### MIS Architecture
+
+## MIS Architecture
 
 MIS architecture with the functional components.
 
-![MIS_Architecture](/../main/docs/src/images/MIS_Architecture.PNG)
+![MIS_Architecture](docs/src/images/MIS_Architecture.PNG)
 
 | Components    | Goals         | URL           |
 | ------------- | ------------- | ------------- |
