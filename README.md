@@ -9,28 +9,33 @@ More information about the MaaS use case :blue_book: [MaaS KIT](https://eclipse-
 
 ## MIS Overview
 
-Classification of MIS in an exemplary data space under consideration of relevant stakeholders.
+The purpose of the MIS is to collect available offerings from a set of manufacturers, and to make them discoverable to potential buyers. In that context, the manufacturers are playing the role of a **Data Provider** and their offerings are provided by a _Factory Connector_. The buyers are considered to be a **Data Consumer** of the service provided by the MIS is its role as a **Service Provider**.
 
-<img width="837" alt="MIS_Overview" src="https://github.com/user-attachments/assets/7e19793e-bda4-406e-9ccc-79103e76e08f">
+The MIS service provider will be deployed in an domain-specific data space, providing a relevant ecosystem for manufacturer and buyers.
+
+![MIS_Overview](docs/src/images/MIS_Overview.PNG)
+
+
+## Use Cases of MIS
 
 The following use cases can be performed with the MIS.
 
-### Use Cases of MIS
 1. **Manual onboarding**
-- Onboarding of manufacturer information via factory connectors.
-- AI-based onboarding of manufacturer information, based on machine specifications.
+   - Onboarding of manufacturer information via factory connectors.
+   - AI-based onboarding of manufacturer information, based on machine specifications.
 2. **Automatic onboarding / crawling**
-- The manufacturers' production capabilities are automatically read out by querying the factory connectors.
+   - The manufacturers' production capabilities are automatically read out by querying the factory connectors.
 3. **Requesting manufacturer information**
-- Data consumer can use the MIS to query information such as production capabilities for a data provider.
+   - Data consumer can use the MIS to query information such as production capabilities for a data provider.
 4. **Search for potential suppliers/supply chains**
-- Identification of potential suppliers/supply chains for a given production process.
+   - Identification of potential suppliers/supply chains for a given production process.
 
-### MIS Architecture
+
+## MIS Architecture
 
 MIS architecture with the functional components.
 
-<img width="459" alt="MIS_Architecture" src="https://github.com/user-attachments/assets/074dd088-9065-4e1c-a323-a1dbdc47e25c">
+![MIS_Architecture](docs/src/images/MIS_Architecture.PNG)
 
 | Components    | Goals         | URL           |
 | ------------- | ------------- | ------------- |
@@ -39,3 +44,19 @@ MIS architecture with the functional components.
 | **Asset Management Service (AMS)**  | Interface to manage asset information like enterprise, factories, manufacturing capabilities, etc. within the knowledge base |[MIS-AMS](https://github.com/FraunhoferIOSB/MIS-AMS)  |
 | **Search Engine (SE)**  | Provision of manufacturer information such as production capabilities for a given process description  | [MIS-SE](https://github.com/FraunhoferIOSB/MIS-SE)  |
 
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions are **greatly appreciated**.
+You can find our contribution guidelines [here](CONTRIBUTING.md)
+
+## Contact
+
+info-disc-ecosystem@iosb.fraunhofer.de
+
+## License
+
+Distributed under the Apache 2.0 License. See `LICENSE` for more information.
+
+Copyright (C) 2022 Fraunhofer Institut IOSB, Fraunhoferstr. 1, D 76131 Karlsruhe, Germany.
+
+You should have received a copy of the Apache 2.0 License along with this program. If not, see https://www.apache.org/licenses/LICENSE-2.0.html.
