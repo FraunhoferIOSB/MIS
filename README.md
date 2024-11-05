@@ -20,14 +20,14 @@ The MIS service provider will be deployed in an domain-specific data space, prov
 
 The following use cases can be performed with the MIS.
 
-1. **Manual capability registration**
+1. UC1 **Manual capability registration**
    - Registration of manufacturer capability information via factory connectors.
    - AI-based extraction of manufacturer capability information, based on machine specifications.
-2. **Automatic capability registration / crawling**
+2. UC2 **Automatic capability registration / crawling**
    - The manufacturers' production capabilities are automatically read out by querying the factory connectors.
-3. **Requesting manufacturer information**
+3. UC3 **Requesting manufacturer information**
    - Data consumer can use the MIS to query information such as production capabilities for a data provider.
-4. **Search for potential suppliers/supply chains**
+4. UC4 **Search for potential suppliers/supply chains**
    - Identification of potential suppliers/supply chains for a given production process.
 
 
