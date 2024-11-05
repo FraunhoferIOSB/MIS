@@ -11,8 +11,6 @@ More information about the MaaS use case :blue_book: [MaaS KIT](https://eclipse-
 
 The purpose of the MIS is to collect available capability offerings from a set of manufacturers, and to make them discoverable to potential buyers. In that context, the manufacturers are playing the role of a **Data Provider** and their offerings are provided by a _Factory Connector_. The buyers are considered to be a **Data Consumer** of the service provided by the MIS is its role as a **Service Provider**.
 
-The MIS service provider will be deployed in an domain-specific data space, providing a relevant ecosystem for manufacturer and buyers.
-
 ![MIS_Overview](docs/src/images/MIS_Overview.PNG)
 
 
