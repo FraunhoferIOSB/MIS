@@ -41,6 +41,7 @@ MIS architecture with the functional components.
 | **Asset Management and Refinement Application (AMARA)**  | Automatically derives manufacturing capabilities from machine specifications with Large Language Models (LLM)  | [MIS-AMARA](https://github.com/FraunhoferIOSB/MIS-AMARA) |
 | **Asset Management Service (AMS)**  | Interface to manage asset information like machines, manufacturing capabilities, etc. within the knowledge base |[MIS-AMS](https://github.com/FraunhoferIOSB/MIS-AMS)  |
 | **Search Engine (SE)**  | Provision of manufacturer information such as production capabilities for a given process description  | [MIS-SE](https://github.com/FraunhoferIOSB/MIS-SE)  |
+| **Multi-Port Connector (MPC)**  | The Multi Port Connector (MPC) is a connector to address the APIs of various Factory Connectors.  | [MIS-MPC](https://github.com/FraunhoferIOSB/MIS-MPC)  |
 
 ## Contributing
 
